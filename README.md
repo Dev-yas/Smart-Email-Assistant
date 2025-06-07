@@ -57,9 +57,11 @@ An AI-powered solution that enhances email productivity by generating intelligen
 
 ---
 
-## 🧑‍💻 Backend Setup
+## 🧑‍💻 Setup
+
 
 ```bash
+Backend Setup
 cd email-writer-sb
 mvn clean install
 mvn spring-boot:run
